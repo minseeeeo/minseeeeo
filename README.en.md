@@ -1,6 +1,6 @@
 # Hi, I'm Minseo 👋
 
-[한국어](README.md)
+[한국어](https://github.com/minseeeeo)
 
 I am a **frontend developer** who defines problems based on what users actually experience on screen.
 
@@ -136,7 +136,7 @@ Built the Community pages
 
 
 ### 🎬 [Filmograph](https://github.com/WebFramework-A/Filmograph-FE) — Movie Data Visualization Web
-[Filmograph Site](https://filmograph-fe.vercel.app/)
+[🔗 <i>Filmograph Site</i>](https://filmograph-fe.vercel.app/)
 
 - `2025.09 – 2025.12`
 - Web Framework 1
