@@ -136,7 +136,7 @@ GPS 러닝 기록, 캐릭터 육성, 커뮤니티를 하나로 통합한 러닝 
 
 
 ### 🎬 [Filmograph](https://github.com/WebFramework-A/Filmograph-FE) — 영화 데이터 시각화 웹
-[Filmograph Site](https://filmograph-fe.vercel.app/)
+[🔗 <i>Filmograph Site</i>](https://filmograph-fe.vercel.app/)
 
 - `2025.09 – 2025.12`
 - 웹프레임워크1
